@@ -63,6 +63,5 @@ Liste des dépendances directes :
 Exécuter la commande suivante pour démarrer l'application :
 
 ```bash
-python first_server.py
+python first_server/app.py
 ```
-
