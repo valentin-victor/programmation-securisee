@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Titre du site</title>
+  </head>
+  <body>
+    <h3>Votre avis nous importe!</h3>
+    <form action="{{ url_for('submit') }}" method="post">
+      <textarea name="avis"></textarea>
+      <br><br><br>
+      <input type="submit" value="Soumettre">
+    </form>
+  </body>
+</html>
