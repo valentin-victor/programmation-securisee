@@ -1,0 +1,6 @@
+2023/02/06 VALENTIN unmail@mail.net
+
+	Fork and first bugfix
+    
+	* use_of_templates/app.py: fix naming issue to show the time
+	* use_of_templates/templates/base.html: fix naming issue to access the .CSS file
